@@ -1,0 +1,30 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h2{
+  font-size: 40px;
+  margin-right: 150px;
+  margin-left: 40px;
+  color: rgb(23, 36, 117);
+
+}
+
+p{
+  font-size: 20px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+body{
+  font-family: helvetica;
+    color: rgb(23, 36, 117);
+
+}
+h1{
+  font-size: 80px;
+  text-align: center;
+  color: rgb(23, 36, 117);
+}

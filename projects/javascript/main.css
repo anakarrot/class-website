@@ -1,0 +1,36 @@
+* {
+  box-sizing :border-box;
+}
+body{
+  margin: 20px;
+}
+
+.btn{
+  background: purple;
+  cursor: pointer;
+  padding: 10px;
+  width: 40px;
+}
+
+.btn:hover {
+  background: pink;
+}
+
+#box{
+height:100%;
+background:blue;
+position: fixed;
+width:400px;
+top:0;
+right: -400px;
+bottom:0;
+color:white;
+font-size: 25px;
+padding:25px;
+transition:transform .5s;
+}
+.active{
+  transform:translateX(-400px);
+
+
+}

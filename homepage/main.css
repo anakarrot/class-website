@@ -1,0 +1,100 @@
+
+.sound{
+background-image:url(sound.png);
+background-size:100% 100%;
+width: 30%;
+height: 30%;
+margin-top:295px;
+position: absolute;
+margin-left:20px;
+padding: 0px;
+}
+
+.one{
+background-image:url(one.png);
+background-size: 100% 100%;
+width: 30%;
+height: 30%;
+margin-top:550px;
+margin-left:0px;
+position: absolute;
+padding: 0px;
+}
+
+.core{
+background-image:url(core.png);
+background-size: 100% 100%;
+width: 30%;
+height: 30%;
+margin-top:580px;
+margin-left:390px;
+position: absolute;
+padding: 0px;
+}
+
+.multi{
+background-image:url(multi.png);
+background-size: 100% 100%;
+width: 30%;
+height:30%;
+margin-top:620px;
+margin-left:760px;
+position: absolute;
+padding: 0px;
+
+}
+
+.handmade{
+background-image:url(handmade.png);
+background-size: 100% 100%;
+width: 30%;
+height: 30%;
+margin-top:440px;
+margin-left:795px;
+position: absolute;
+padding: 0px;
+}
+
+.pinterest{
+background-image:url(pinterest.png);
+background-size: 100% 100%;
+width: 30%;
+height: 30%;
+margin-top:210px;
+margin-left:1045px;
+position: absolute;
+padding:0px;
+}
+
+
+button{
+  border-radius: 15px;
+  border: 5px solid white;
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  align-items: center;
+
+}
+
+input{
+  border-radius: 15px;
+  border: 5px solid white;
+  background-color:black;
+  color: white;
+  padding: 10px 10px;
+  font-size: 15px;
+  width:250px;
+  letter-spacing: 2px;
+
+}
+
+
+.searchbar{
+position: fixed;
+top:50%;
+left:47%;
+transform: translate(-50%, -50%);
+}
