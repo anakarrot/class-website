@@ -40,8 +40,8 @@ h3{
 
 
 p{
-  background-color: rgba(33,37,43,.9);
-    color: #fff;
+  background-color:
+    color:black;
     padding: 30px;
     font-size: 16px;
     font-weight: 200;
@@ -84,6 +84,6 @@ p{
       margin-right: auto;
       width: 70%;
       border-radius: 4px;
-      width: 1000px;
+      width: 500px;
       padding: 100px;
     }
