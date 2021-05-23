@@ -1,0 +1,18 @@
+body
+{
+  margin: 20px;
+  background: baby blue
+  font-family:monospace;
+}
+
+h1 {
+  font-size: 90px;
+  font-family: fantasy;
+  text-align: center;
+
+}
+
+p{
+    font-family: monospace;
+    font-size: 20px;
+}
